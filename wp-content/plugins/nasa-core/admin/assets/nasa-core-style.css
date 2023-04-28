@@ -1,0 +1,124 @@
+/* Global style ========================================= */
+.hidden-tag,
+.nasa_sc_cache_id,
+.wp-core-ui .button.hidden-tag,
+.wp-core-ui .button-primary.hidden-tag,
+.wp-core-ui .button-secondary.hidden-tag {
+    display: none;
+}
+
+/* Mega menu style ========================================= */
+.additional-menu-field-enable_mega,
+.additional-menu-field-columns_mega,
+.additional-menu-field-enable_fullwidth
+{
+    display: none;
+}
+
+.menu-item-depth-0 .additional-menu-field-enable_mega,
+.menu-item-depth-0 .additional-menu-field-columns_mega,
+.menu-item-depth-0 .additional-menu-field-enable_fullwidth
+{
+    display: block;
+}
+
+.additional-menu-field-widget.description.description-thin{
+    width: 390px
+}
+
+.menu-item-depth-0 .additional-menu-field-widget.description.description-thin{
+    width: 190px;
+    height: 40px;
+}
+
+.imgmega{
+    display: block;
+    width: 100%;
+}
+
+.imgmega img{
+    max-width: 100%;
+    margin-top: 5px;
+}
+
+/* Shortcode style ========================================= */
+.vc_element-icon.icon-wpb-nasatheme{
+    background-image: url(logo.png);
+    background-size: 32px;
+}
+
+/* Nasa attributies UX ====================================== */
+.nasa-attr-ux-preview {
+    width: 40px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    font-weight: 700;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.nasa-attr-ux-preview.nasa-attr-ux-image {
+    border: none;
+    line-height: 1;
+}
+
+.nasa-attr-ux-modal-container {
+    position: relative;
+    display: none;
+}
+
+.nasa-attr-ux-modal {
+    transform: translate(-50%, -50%);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 360px;
+    max-width: 90%;
+    z-index: 159990;
+    background-color: #fcfcfc;
+}
+
+.nasa-attr-ux-modal input.error {
+    border-color: #dc3232;
+}
+
+.nasa-attr-ux-modal-header,
+.nasa-attr-ux-modal-content,
+.nasa-attr-ux-modal-footer {
+    padding: 20px;
+}
+
+.nasa-attr-ux-modal-header {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.nasa-attr-ux-modal-content {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background-color: #fff;
+}
+
+.nasa-attr-ux-modal-footer {
+    text-align: right;
+}
+
+.nasa-attr-ux-modal-footer .message,
+.nasa-attr-ux-modal-footer .spinner {
+    float: left;
+}
+
+.nasa-attr-ux-modal-footer .message.error {
+    color: #dc3232;
+}
+
+.nasa-attr-ux-modal-footer .message.success {
+    color: #46b450;
+}
+
+.nasa-admin-loader {
+    margin-left: 10px;
+    position: relative;
+    top: 3px;
+}
