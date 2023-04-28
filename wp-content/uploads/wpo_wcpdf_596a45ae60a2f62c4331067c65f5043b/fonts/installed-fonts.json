@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/OpenSans-Normal",
+        "bold": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/OpenSans-Bold",
+        "italic": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/Segoe-Normal",
+        "bold": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/Segoe-Bold",
+        "italic": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/currencies",
+        "bold": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/currencies",
+        "italic": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/currencies",
+        "bold_italic": "C:\/laragon\/www\/selamoo\/wp-content\/uploads\/wpo_wcpdf_596a45ae60a2f62c4331067c65f5043b\/fonts\/currencies"
+    }
+}
