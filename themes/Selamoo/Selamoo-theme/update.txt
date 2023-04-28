@@ -1,0 +1,247 @@
+----- 1.5.5 (04 May 2020) -----
+- FIXED: Include tax Mini Cart Sidebar.
+
+----- 1.5.4 (27 Apr 2020) -----
+- IMPROVED: Sample Data.
+- COMPATIBLE: WPBakery Page Builder 6.2.0.
+
+----- 1.5.3 (10 Apr 2020) -----
+- NEW: The Feature Bought Together.
+- IMPROVED: Mobile Menu (Add Topbar Menu).
+- COMPATIBLE: WordPress 5.4.
+- COMPATIBLE: WooCommerce Wishlist 4.0.x.
+- COMPATIBLE: Revolution Slider 6.2.2.
+
+----- 1.5.2 (22 Feb 2020) -----
+- COMPATIBLE: WooCommerce Wishlist 3.9.2.
+- COMPATIBLE: Revolution Slider 6.1.8.
+
+----- 1.5.1 (19 Dec 2019) -----
+- IMPROVED: Wishlist.
+- COMPATIBLE: Yith WooCommerce Wishlist 3.x.
+- COMPATIBLE: WPBakery Page Builder 6.1.
+- COMPATIBLE: Revolution Slider 6.1.5.
+
+----- 1.5.0 (17 Nov 2019) -----
+- NEW: Light Layout For Menu Mobile.
+- COMPATIBLE: WordPress 5.3.
+- COMPATIBLE: Revolution Slider 6.1.4.
+
+----- 1.4.9 (08 Nov 2019) -----
+- COMPATIBLE: WooCommerce 3.8.0.
+
+----- 1.4.8 (05 Oct 2019) -----
+- FIXED: Issue Css compatible with the new version of Chrome.
+- COMPATIBLE: Revolution Slider 6.1.3.
+
+----- 1.4.7 (15 Aug 2019) -----
+- COMPATIBLE: WPBakery Page Builder 6.0.5.
+- COMPATIBLE: Revolution Slider 6.0.9.
+- COMPATIBLE: WooCommerce 3.7.0.
+
+----- 1.4.6 (14 Jun 2019) -----
+- COMPATIBLE: WPBakery Page Builder 6.0.3.
+
+----- 1.4.5 (22 May 2019) -----
+- COMPATIBLE: Revolution Slider 5.4.8.3.
+- COMPATIBLE: WPBakery Page Builder 6.0.2.
+
+----- 1.4.4 (19 Apr 2019) -----
+- FIXED: Some Css.
+- IMPROVED: Variations Loop products.
+- COMPATIBLE: WooCommerce 3.6.x.
+
+----- 1.4.3 (25 Mar 2019) -----
+- FIXED: Some Css.
+- IMPROVED: Variations Loop products.
+- COMPATIBLE: WooCommerce 3.5.7.
+
+----- 1.4.2 (08 Mar 2019) -----
+- NEW: Countdown time Single, Quickview and grid Product.
+- FIXED: Some Css.
+- IMPROVED: Sample Data.
+- COMPATIBLE: WooCommerce 3.5.6.
+
+----- 1.4.1 (01 Mar 2019) -----
+- NEW: Option columns for Mobile Tablet in Shop page.
+- COMPATIBLE: WooCommerce 3.5.5.
+- COMPATIBLE: WordPress 5.1.
+
+----- 1.4.0 (19 Feb 2019) -----
+- FIXED: Notice WooCommerce.
+- COMPATIBLE: Revolution Slider 5.4.8.2.
+- COMPATIBLE: WPBakery Visual Composer 5.7.
+
+----- 1.3.9 (11 Feb 2019) -----
+- FIXED: Font Style in Theme Options.
+- FIXED: Some Css.
+- NEW: Quick Buy.
+
+----- 1.3.8 (19 Jan 2019) -----
+- FIXED: Login in Checkout Page.
+- IMPROVED: Quick View.
+- IMPROVED: Variations Loop products.
+- IMPROVED: Optimize UX Variations Loop products.
+
+----- 1.3.7 (03 Dec 2018) -----
+- COMPATIBLE: WooCommerce 3.5.2.
+- COMPATIBLE: WPBakery Visual Composer 5.6.
+
+----- 1.3.6 (15 Nov 2018) -----
+- FIXED: Countdown in Safari.
+
+----- 1.3.5 (10 Nov 2018) -----
+- FIXED: Time Zone for Deal time product.
+- COMPATIBLE: plugin WooCommerce. (3.5.1).
+
+----- 1.3.4 (25 Oct 2018) -----
+- COMPATIBLE: plugin WooCommerce. (3.5.0)
+- COMPATIBLE: plugin WPBakery Visual Composer. (5.5.5).
+
+----- 1.3.3 (25 Sep 2018) -----
+- COMPATIBLE: plugin WPBakery Visual Composer. (5.5.4).
+- IMPROVED: Share - Follow elements.
+- FIXED: Some Css.
+
+----- 1.3.2 (17 Aug 2018) -----
+- FIXED: Viewed products.
+- FIXED: tgmpa.
+- FIXED: Search Product.
+- FIXED: Some Style.
+
+----- 1.3.1 (03 July 2018) -----
+- IMPROVED: Breadcrumb.
+- FIXED: Language template.
+- FIXED: Some Style.
+- NEW: Option show / hide quickview.
+
+----- 1.3.0 (24 June 2018) -----
+- COMPATIBLE: plugin WPBakery Visual Composer. (5.5)
+- COMPATIBLE: plugin Revolution Slider. (5.4.8)
+- COMPATIBLE: Compatible SG Optimizer Plugin.
+- COMPATIBLE: Compatible LiteSpeed Cache Plugin.
+- FIXED: Breadcrumb.
+- FIXED: Some Style.
+
+----- 1.2.11 (10 June 2018) -----
+- IMPROVED: UX Change image variation single product.
+- FIXED: Variations product.
+- FIXED: Live search product.
+- FIXED: Some css.
+
+----- 1.2.10 (30 May 2018) -----
+- IMPROVED: Compatible with WooCommerce 3.4.x.
+- FIXED: Params of some vc elements.
+- FIXED: Some Style.
+
+----- 1.2.8 (08 May 2018) -----
+- NEW: Override sidebar for Product Category
+- FIXED: Show price product banner in IOS
+- FIXED: Search submit in mobile
+- FIXED: More css.
+
+----- 1.2.7 (17 Apr 2018) -----
+- IMPROVED: Limit results ajax search.
+- UPDATE: Plugin Slider Revolution 5.4.7.2.
+- UPDATE: Plugin WPBakery Visual Composer 5.4.7.
+
+----- 1.2.6 (26 Mar 2018) -----
+- FIXED: Retina logo.
+- FIXED: Content product (loop).
+- FIXED: Html, css products banner.
+- FIXED: More css.
+
+----- 1.2.5 (11 Mar 2018) -----
+- FIXED: disable element of row option.
+- FIXED: Carousel css of ourter wrap.
+- FIXED: Top init of Top sidebar.
+- FIXED: Attributies ux of Content product.
+- FIXED: some css.
+
+----- 1.2.4 (21 Feb 2018) -----
+- IMPROVED: Compatible with the WooCommerce version 3.3.3
+
+----- 1.2.3 (12 Feb 2018) -----
+- FIXED: Some Style.
+- FIXED: Css mobile for Left/Right Sidebar.
+- IMPROVED: Compatible with the WooCommerce version 3.3.x (Hide Uncategorized)
+
+----- 1.2.2 (10 Feb 2018) -----
+- FIXED: Some Style.
+- IMPROVED: Compatible with the WooCommerce version 3.3.x.
+
+----- 1.2.1 (25 Jan 2018) -----
+- FIXED: More css.
+- FIXED: Widget filter price.
+- FIXED: WPML with footer.
+- FIXED: Compatible with wp_rocket, autoptimizeCache plugins.
+- IMPROVED: Create option for UX variation for product variable.
+- IMPROVED: Reponsive for Pin product banner.
+- IMPROVED: Init Pin product banner in dashboad.
+- IMPROVED: Layout and loading in Shopping cart page.
+
+----- 1.2.0 (22 Dec 2017) -----
+- NEW: Auto install digi-theme-child when install demo data.
+- FIXED: Default font "Rubik" in demo data.
+- FIXED: Loading icon in sidebar.
+- IMPROVED: Add layout subcategories into Shop/Category products page.
+
+----- 1.1.2 (18 Dec 2017) -----
+- NEW: Pin products to image.
+- FIXED: Some Style content.
+- FIXED: Style Dark color in sidebar content.
+- IMPROVED: UX image variation for product variable.
+- IMPROVED: Compatible with the latest Visual Composer version.
+
+----- 1.1.1 (26 Nov 2017) -----
+- FIXED: Quick-view variation product.
+- FIXED: The excerpt blog.
+- FIXED: Error ajax when disable plugin Yith WooCommerce Compare.
+- IMPROVED: Compatible with the latest Visual Composer version.
+
+----- 1.1 (31 Oct 2017) -----
+- NEW: Color, Label for content product variable.
+- FIXED: Style for widget filter price.
+- FIXED: Ignore cache for registered or logined.
+- FIXED: Line height for select in admin.
+- IMPROVED: Rating in quick view product.
+
+----- 1.0.5 (20 Oct 2017) -----
+- FIXED: Style reponsive of content product no price.
+- IMPROVED: Change deprecated functions of WooCommerce.
+- IMPROVED: Data demo
+
+----- 1.0.4 (15 Oct 2017) -----
+- FIXED: Style of content product.
+- IMPROVED: Compatible with the WooCommerce version 3.2.
+
+----- 1.0.3 (07 Oct 2017) -----
+- NEW: UX Variations product Color or Label.
+- FIXED: Quick view change image by variation.
+- FIXED: Add to cart variation's product in quick view.
+- FIXED: Sale flash for variation product.
+
+----- 1.0.2 (30 Sep 2017) -----
+- NEW: UX vertical menu for desktop.
+- FIXED: Tablet columns.
+- FIXED: Short code list Products icon in mobile.
+- FIXED: Change layout shop live with Cache.
+- IMPROVED: Viewed product in side bar.
+
+----- 1.0.1 (22 Sep 2017) -----
+- NEW: Recently Viewed Products.
+- NEW: Support Retina Display.
+- NEW: Promotion pop up Newsletter.
+- FIXED: Hide gifts's product in mini cart side bar.
+- FIXED: Change color categories shop list.
+- FIXED: Style pagination shop page.
+- FIXED: Style Add to cart in wishlist side bar.
+- FIXED: Style Gifts's products pop up.
+- FIXED: Style Compare products bottom bar.
+- FIXED: Shopping cart - Checkout template.
+- FIXED: Short code Product categories.
+- IMPROVED: Loading icon.
+- IMPROVED: Compatible with the latest Visual Composer version.
+
+----- 1.0 (14 Sep 2017) -----
+Initial release.
